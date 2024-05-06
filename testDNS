@@ -1,1 +1,8 @@
-pingpong test file
+! Checksum: 2ZALnx2Vj3pv7uPTN1iqEg
+! Title: DNS Filter
+! Description: Filter for checking AND user rulers
+! Version: 0.2.0
+! TimeUpdated: 2021-10-18T08:31:20+00:00
+! Expires: 4 days (update frequency)
+ya.ru
+yahoo.com
